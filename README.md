@@ -24,7 +24,28 @@
 
 ## Содержание
 
-- [Благодарности](general/thanks.md)
-- [О разделе](general/about.md)
-- [О доброте и злобе](general/good_and_evil.md)
+### О книге
 
+- [Благодарности](thanks.md)
+- [Лицензия CC BY-NC-ND 4.0](lincese.md)
+
+### Общие принципы
+
+- [Темы](general/topics.md)
+- [О разделе](general/about.md)
+- [Основные вопросы](general/main_problems.md)
+- [Основные вопросы актера](general/main_problems.md)
+- [Проблема процесса](general/problem_of_process.md)
+- [Проблема универсальности, однозначности и
+  парадоксальности](general/universality_unambiguity_and_paradox_problem.md)
+- [О доброте и злобе](general/good_and_evil.md)
+- Этика
+- Дисциплина
+- Об интуиции и контринтуиции
+
+### Техники
+
+- [Темы](techniques/topics.md)
+- О диалогах (и паузах)
+- Об ощущении времени
+- [Отработка парадокса](techniques/working_on_paradox.md)
